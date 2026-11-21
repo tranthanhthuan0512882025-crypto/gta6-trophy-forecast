@@ -1,1 +1,0 @@
-Temporary placeholder file so GitHub shows the About editor; it will be deleted after the About settings are set.
